@@ -1,4 +1,4 @@
-#!/data/Trabalho/MEDSUS/medsus/bin/python3
+#!/data/projetos/ParseMedSUS/medsus/bin/python3.9
 # -*- coding: utf-8 -*-
 import re
 import sys

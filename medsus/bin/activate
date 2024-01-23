@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/data/Trabalho/MEDSUS/medsus"
+VIRTUAL_ENV="/data/projetos/ParseMedSUS/medsus"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
